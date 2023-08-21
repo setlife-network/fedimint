@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["address","backup","balance","connect_fed","info","pay_invoice","restore","run_webserver","withdraw"]};

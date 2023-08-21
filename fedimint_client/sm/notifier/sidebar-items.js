@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["ModuleNotifier","Notifier","NotifierSender"]};

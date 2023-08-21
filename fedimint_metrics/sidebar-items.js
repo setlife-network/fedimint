@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["get_metrics","run_api_server"],"macro":["histogram_opts","lazy_static","opts","register_histogram","register_int_counter"],"struct":["Histogram","TextEncoder"],"trait":["Encoder"],"type":["IntCounter"]};

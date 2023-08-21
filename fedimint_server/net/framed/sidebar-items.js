@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["BidiFramed","BincodeCodec"],"trait":["FramedTransport"],"type":["AnyFramedTransport","FramedSink","FramedStream","TcpBidiFramed"]};

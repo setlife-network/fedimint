@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["MAX_PEER_OUT_OF_ORDER_MESSAGES"],"struct":["ModuleMultiplexed","ModuleMultiplexerOutOfOrder","PeerConnectionMultiplexer"],"type":["Callback","ModuleId","ModuleIdRef"]};

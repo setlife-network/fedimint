@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["ClnExtensionError"],"fn":["htlc_processing_failure","main","scid_to_u64"],"struct":["ClnExtensionOpts","ClnHtlcInterceptor","ClnRpcClient","ClnRpcService","Htlc","HtlcAccepted","Onion"],"type":["HtlcInterceptionSender","HtlcOutcomeSender"]};

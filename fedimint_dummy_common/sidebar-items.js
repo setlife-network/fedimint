@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["CONSENSUS_VERSION","FED_SECRET_PHRASE","KIND"],"enum":["DummyConsensusItem","DummyError"],"fn":["fed_key_pair","fed_public_key"],"mod":["config"],"struct":["DummyCommonGen","DummyInput","DummyModuleTypes","DummyOutput","DummyOutputOutcome"]};

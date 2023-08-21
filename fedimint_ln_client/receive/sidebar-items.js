@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["LightningReceiveError","LightningReceiveStates"],"struct":["LightningReceiveConfirmedInvoice","LightningReceiveFunded","LightningReceiveStateMachine","LightningReceiveSubmittedOffer"]};

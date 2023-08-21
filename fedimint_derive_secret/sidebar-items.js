@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"constant":["BLS12_381_TAG","CHACHA20_POLY1305","CHILD_TAG","RAW_BYTES","SECP256K1_TAG"],"fn":["tagged_derive"],"struct":["ChildId","DerivableSecret"]};

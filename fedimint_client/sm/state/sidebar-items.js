@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"struct":["DynContext","DynState","OperationState","StateTransition"],"trait":["Context","IContext","IState","State"],"type":["StateTransitionFunction","TriggerFuture"]};
