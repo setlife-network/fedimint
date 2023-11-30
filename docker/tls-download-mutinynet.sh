@@ -84,7 +84,7 @@ count_dots() {
 
 EXTERNAL_IP=$(curl -4 -sSL ifconfig.me)
 
-SERVICES="fedimintd guardian-ui gatewayd gateway-ui rtl xmpp"
+SERVICES="fedimintd guardian-ui gatewayd gateway-ui rtl xmpp muc.xmpp"
 
 echo
 echo "Welcome to the fedimint setup script with TLS certificates by Let's Encrypt"
