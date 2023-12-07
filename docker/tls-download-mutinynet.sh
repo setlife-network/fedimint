@@ -2,9 +2,9 @@
 
 # This file downloads the mutinynet docker-compose files for the LN gateway, fedimintd plus some useful tools
 # Important: This version uses TLS certificates, so you must have a domain under your control that you can change the DNS records for
-# You can download this script and run it with: curl -sSL https://raw.githubusercontent.com/fedimint/fedimint/master/docker/tls-download-mutinynet.sh | bash
+# You can download this script and run it with: curl -sSL https://raw.githubusercontent.com/setlife-network/fedimint/test-0.2rc/docker/tls-download-mutinynet.sh | bash
 
-DOCKER_COMPOSE_FILE=https://raw.githubusercontent.com/fedimint/fedimint/master/docker/full-tls-mutinynet/docker-compose.yaml
+DOCKER_COMPOSE_FILE=https://raw.githubusercontent.com/setlife-network/fedimint/test-0.2rc/docker/full-tls-mutinynet/docker-compose.yaml
 
 DOCKER_COMPOSE=docker-compose
 if docker compose version|grep 'Docker Compose' >& /dev/null; then
